@@ -1,5 +1,0 @@
-
-Redirect /staging.admin https://www.staging.admin.rccgdominionparish.com
-
-ErrorDocument 404 /staging.admin/error-page1.html
-ErrorDocument 500 /staging.admin/error-page2.html
