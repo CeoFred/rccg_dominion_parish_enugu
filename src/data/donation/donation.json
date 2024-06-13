@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/donation/5.jpg",
+        "title":"Protecting Children",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":85000,
+        "raised":52384
+    },
+    {
+        "id":2,
+        "image":"assets/img/donation/6.jpg",
+        "title":"Donate Ngos",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":78000,
+        "raised":49444
+    },
+    {
+        "id":3,
+        "image":"assets/img/donation/7.jpg",
+        "title":"Feed Poors",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":96400,
+        "raised":78334
+    },
+    {
+        "id":4,
+        "image":"assets/img/donation/8.jpg",
+        "title":"Empower Young People",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":75000,
+        "raised":35984
+    },
+    {
+        "id":5,
+        "image":"assets/img/donation/9.jpg",
+        "title":"Donate Schools",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":85000,
+        "raised":52384
+    },
+    {
+        "id":6,
+        "image":"assets/img/donation/10.jpg",
+        "title":"Protecting Children",
+        "shorttext":"Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod",
+        "goal":90000,
+        "raised":45684
+    }
+]

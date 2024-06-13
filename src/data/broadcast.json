@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/video-gallery/01.png",
+        "title":"Kenne G. Patten",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=TKnufs85hXk"
+    },
+    {
+        "id":2,
+        "image":"assets/img/video-gallery/1.png",
+        "title":"Kenne G. Patten",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=TKnufs85hXk"
+    },
+    {
+        "id":3,
+        "image":"assets/img/video-gallery/2.jpg",
+        "title":"David M. Dahan",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=TKnufs85hXk"
+    },
+    {
+        "id":4,
+        "image":"assets/img/video-gallery/3.jpg",
+        "title":"D. Kathy Santos Kito",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=TKnufs85hXk"
+    },
+    {
+        "id":5,
+        "image":"assets/img/video-gallery/4.jpg",
+        "title":"Kim I. Bailey",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=TKnufs85hXk"
+    }
+]

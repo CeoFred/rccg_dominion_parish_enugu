@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "linkText": "Events",
+        "child": true,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/events",
+                "linkText": "Events"
+            },
+            {
+                "id": 1.2,
+                "link": "/event-details/1",
+                "linkText": "Event Details"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Sermons",
+        "child": true,
+        "submenu": [
+            {
+                "id": 2.1,
+                "link": "/sermons",
+                "linkText": "Sermon"
+            },
+            {
+                "id": 2.2,
+                "link": "/sermon-details/1",
+                "linkText": "Sermon Details"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Ministries",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/ministries",
+                "linkText": "Ministries"
+            },
+            {
+                "id": 4.2,
+                "link": "/ministry-details/1",
+                "linkText": "Ministry Details"
+            }
+        ]
+    }
+]
