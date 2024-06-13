@@ -68,7 +68,7 @@ button:focus,
     order: 2;
 }
 .accordion .card .collapseparent.show + .card-header .btn{
-    background-color: #F74F22;
+    background-color: #28166F;
     color: #fff;
 }
 .accordion .card .collapseparent.show + .card-header .btn::after, 
@@ -85,7 +85,7 @@ button:focus,
     display: none;
 }
 .sigma_sermon-box .sigma_sm.square li a:hover i{
-    color: #F74F22;
+    color: #28166F;
 }
 .sigma_timeline-nodes:last-child{
     margin-bottom: 0;
@@ -126,7 +126,7 @@ button:focus,
   margin-bottom: 20px;
 }
 .sigma_product-controls a.active{
-  background-color: #f74f22;
+  background-color: #28166F;
   color: #fff;
   box-shadow: 0px 10px 50px 0px rgb(53 82 99 / 9%);
 }
@@ -135,18 +135,18 @@ button:focus,
 .irs--flat .irs-single,
 .irs--flat .irs-bar,
 .irs--flat .irs-handle>i:first-child {
-    background-color: #f74f22!important;
+    background-color: #28166F!important;
 }
 
 .irs--flat .irs-from:before,
 .irs--flat .irs-to:before,
 .irs--flat .irs-single:before {
-    border-top-color: #f74f22!important;
+    border-top-color: #28166F!important;
 }
 
 .irs--flat .irs-handle.state_hover>i:first-child,
 .irs--flat .irs-handle:hover>i:first-child {
-    background-color: #f74f22!important;
+    background-color: #28166F!important;
 }
 /* Audio Player */
 .sigma_audio-player .plyr--audio,
@@ -161,7 +161,7 @@ button:focus,
     margin: 0 15px 0 0;
     background: #ffdbd3;
     text-align: center;
-    color: #F74F22;
+    color: #28166F;
     line-height: 55px;
     cursor: pointer;
     border-radius: 0;
@@ -199,7 +199,7 @@ button:focus,
 .sigma_audio-player .plyr__controls .plyr__controls__item.plyr__time{
     width: 60px;
     justify-content: center;
-    color: #f74f22;
+    color: #28166F;
     margin: 0;
 }
 .sigma_audio-player .plyr__controls .plyr__controls__item.plyr__volume{

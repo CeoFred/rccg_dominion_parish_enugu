@@ -17,7 +17,7 @@ import './assets/css/responsive.css';
 import './index.css';
 
 ReactDOM.render(
-  <BrowserRouter basename={"/"}>
+  <BrowserRouter>
     <App />
   </BrowserRouter>,
   document.getElementById('sacreva')

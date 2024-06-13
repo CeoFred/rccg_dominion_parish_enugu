@@ -12,7 +12,7 @@ class Errorpage extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Sacreva - Mega Church & Shop - React Template | {pagelocation}</title>
+                    <title>RCCG Dominion Parish -  Enugu Province 2. {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

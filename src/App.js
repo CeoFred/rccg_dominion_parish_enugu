@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Switch, withRouter } from 'react-router
 const Preloader = React.lazy(() => import("./components/layouts/Preloader"));
 
 // Home
-const Home = React.lazy(() => import("./components/pages/Home"));
+// const Home = React.lazy(() => import("./components/pages/Home"));
 const Hometwo = React.lazy(() => import("./components/pages/Hometwo"));
 const Homethree = React.lazy(() => import("./components/pages/Homethree"));
 // About
@@ -64,8 +64,8 @@ function App() {
           <Preloader />
           <Switch>
             {/* Home */}
-            <Route exact path="/" component={Home} />
-            <Route exact path="/home-v2" component={Hometwo} />
+            {/* <Route exact path="/" component={Home} /> */}
+            <Route exact path="/" component={Hometwo} />
             <Route exact path="/home-v3" component={Homethree} />
             {/* About */}
             <Route exact path="/about" component={About} />

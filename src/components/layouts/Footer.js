@@ -66,10 +66,10 @@ class Footer extends Component {
                 <div className="sigma_footer-bottom">
                     <div className="container-fluid">
                         <div className="sigma_footer-copyright">
-                            <p> Copyright © Sacreva - <Link to="#" className="text-white">2022</Link> </p>
+                            <p> Copyright © RCCG Dominion Parish - <Link to="#" className="text-black">2024</Link> </p>
                         </div>
                         <div className="sigma_footer-logo">
-                            <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" />
+                            {/* <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" /> */}
                         </div>
                         <ul className="sigma_sm square">
                             <li>

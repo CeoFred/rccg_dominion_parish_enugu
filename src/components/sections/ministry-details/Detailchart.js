@@ -27,8 +27,8 @@ const data = {
             yAxisID: 'y-axis-1'
         }, {
             label: 'Revenue',
-            borderColor: '#F74F22',
-            backgroundColor: '#F74F22',
+            borderColor: '#28166F',
+            backgroundColor: '#28166F',
             fill: true,
             data: [
                 randomScalingFactor(),

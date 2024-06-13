@@ -109,7 +109,7 @@ class Headertwo extends Navhelper {
                             {/* Logo Start */}
                             <div className="sigma_logo-wrapper">
                                 <Link to="/" className="navbar-brand">
-                                    <img src={process.env.PUBLIC_URL + "/assets/img/logo.png"} alt="logo" />
+                                    <img src={process.env.PUBLIC_URL + "/assets/img/logo.svg"} alt="logo" />
                                 </Link>
                             </div>
                             {/* Logo End */}
