@@ -11,7 +11,7 @@ class Homethree extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>RCCG Dominion Parish -  Enugu Province 2. {pagelocation}</title>
+                    <title>RCCG Dominion Parish - Enugu Province 2. | {pagelocation}</title>
                     <meta
                         name="description"
                         content="#"

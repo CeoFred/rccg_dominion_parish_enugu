@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Switch, withRouter } from 'react-router
 const Preloader = React.lazy(() => import("./components/layouts/Preloader"));
 
 // Home
-// const Home = React.lazy(() => import("./components/pages/Home"));
+const Home = React.lazy(() => import("./components/pages/Home"));
 const Hometwo = React.lazy(() => import("./components/pages/Hometwo"));
 const Homethree = React.lazy(() => import("./components/pages/Homethree"));
 // About
