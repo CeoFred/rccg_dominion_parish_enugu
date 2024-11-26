@@ -13,7 +13,7 @@ export default function Testimony() {
                     <title>RCCG Dominion Parish - Enugu Province 2. | {pagelocation}</title>
                     <meta
                         name="description"
-                        content="#"
+                        content="We are excited to hear what God has done in your life! Please share your testimony by filling out this form. Your submission will help us celebrate God’s goodness and encourage others in their faith."
                     />
                 </MetaTags>
                 <Header />
