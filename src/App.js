@@ -44,6 +44,7 @@ const Checkout = React.lazy(() => import("./components/pages/Checkout"));
 const Contact = React.lazy(() => import("./components/pages/Contact"));
 // Error 404
 const Errorpage = React.lazy(() => import("./components/pages/Errorpage"));
+const Testimonypage = React.lazy(() => import("./components/pages/Testimony"));
 
 
 // Scroll to Top
@@ -117,6 +118,7 @@ function App() {
             <Route exact path="/contact" component={Contact} />
             {/* Error 404 */}
             <Route exact path="/error-page" component={Errorpage} />
+            <Route exact path="/testimony" component={Testimonypage} />
             <Route exact component={Errorpage} />
           </Switch>
         </ScrollToTop>
