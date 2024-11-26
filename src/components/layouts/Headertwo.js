@@ -119,7 +119,7 @@ class Headertwo extends Navhelper {
                                     <i className="flaticon-telephone" />
                                     <div className="sigma_header-contact-inner">
                                         <span>Get Support</span>
-                                        <h6>987-879-428-48</h6>
+                                        <h6>+234 807 604 4682</h6>
                                     </div>
                                 </a>
                                 <Link to="/donation" className="sigma_btn-custom"> Donate Now </Link>

@@ -13,18 +13,18 @@ class Footer extends Component {
                         <div className="row">
                             <div className="col-xl-4 col-lg-4 col-md-4 col-sm-12 footer-widget">
                                 <h5 className="widget-title">About Us</h5>
-                                <p className="mb-4">Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in</p>
+                                <p className="mb-4">The Redeemed Christian Church of God (RCCG) is a global community of believers committed to holiness, evangelism, and transforming lives through Christ's love.</p>
                                 <div className="d-flex align-items-center justify-content-md-start justify-content-center">
                                     <i className="far fa-phone custom-primary me-3" />
-                                    <span>987-987-930-302</span>
+                                    <span>+234 807 604 4682</span>
                                 </div>
                                 <div className="d-flex align-items-center justify-content-md-start justify-content-center mt-2">
                                     <i className="far fa-envelope custom-primary me-3" />
-                                    <span>info@example.com</span>
+                                    <span>dominion.parish.enugu@gmail.com</span>
                                 </div>
                                 <div className="d-flex align-items-center justify-content-md-start justify-content-center mt-2">
                                     <i className="far fa-map-marker custom-primary me-3" />
-                                    <span>14/A, Poor Street City Tower, New York USA</span>
+                                    <span>13, Emyson Avenue, Phase 6, Trans Ekulu, Enugu, Enugu, Nigeria.</span>
                                 </div>
                             </div>
                             {/* Data */}
