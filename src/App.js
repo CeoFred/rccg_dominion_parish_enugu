@@ -46,7 +46,7 @@ const Contact = React.lazy(() => import("./components/pages/Contact"));
 const Errorpage = React.lazy(() => import("./components/pages/Errorpage"));
 const Testimonypage = React.lazy(() => import("./components/pages/Testimony"));
 const MembershipPage = React.lazy(() => import("./components/pages/Memership"));
-const FeedbackPage = React.lazy(() => import("./components/pages/Feedback"));
+const ServiceFeedbackPage = React.lazy(() => import("./components/pages/Feedback"));
 
 // Scroll to Top
 const ScrollToTop = withRouter(({ children, location: { pathname } }) => {
